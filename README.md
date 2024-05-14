@@ -1,4 +1,4 @@
-- Hi, I’m @Lauerita
+- Hi, I’m Laura 
 - I’m interested in math models and data science 
 - Pronouns: she/her
 
