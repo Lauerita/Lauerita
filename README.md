@@ -1,5 +1,6 @@
 - Hi, I’m Laura (❁´◡`❁)
-- Applied Math graduate student @ SDSU with research interests in math bio(ecology, parasitiology, infectious diseases) and data science  
+- Applied Math graduate student @ SDSU with research interests in math bio(ecology, parasitology, infectious diseases) and data science
+- I am an amateur graphic designer and painter
 - Pronouns: she/her
 
 
