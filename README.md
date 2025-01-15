@@ -1,6 +1,7 @@
-- Hi, I’m Laura 
-- I’m interested in math models and data science 
+- Hi, I’m Laura (❁´◡`❁)
+- Applied Math graduate student @ SDSU with research interests in math bio(ecology, parasitiology, infectious diseases) and data science  
 - Pronouns: she/her
+
 
 <!---
 Lauerita/Lauerita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
