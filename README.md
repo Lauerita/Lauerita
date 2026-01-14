@@ -1,6 +1,5 @@
-- Hi, I’m Laura (❁´◡`❁)
-- Applied Math graduate student @ SDSU with research interests in math modeling(epidemiology and ecology) and machine learning
-- I also am an amateur graphic designer and painter
+- Hi, I’m Laura Hu
+- Applied Math graduate student @ SDSU with research interests in math modeling and machine learning
 - Pronouns: she/her
 
 
